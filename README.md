@@ -1,1 +1,2 @@
-# all the files of data analysis with various tools
+# Collection of data analysis files using various tools
+### 데이터 분석 파일
